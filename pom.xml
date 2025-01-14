@@ -28,7 +28,6 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
-		<logback-core.version>1.5.13</logback-core.version>
 	</properties>
 	<dependencies>
 		<dependency>
